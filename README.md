@@ -29,5 +29,5 @@ on the community commons module. Specifially it requires pdfbox.
 A demo project can be found at https://compresspdf-sandbox.mxapps.io/
 
 ## Contribute
-If you want to contribute to this module, put in a request or pull request via github (https://github.com/WebFlight/SecurePdf).
+If you want to contribute to this module, put in a request or pull request via github (https://github.com/WebFlight/CompressPdf).
 
